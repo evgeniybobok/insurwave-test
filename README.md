@@ -1,6 +1,7 @@
 # API for extracting Employee risk of leaving company level from a trained ML model
 
 1 - High risk, please take preventative measures
+
 0 - Low risk, no additional measures required
 
 ## Creating virtual env
